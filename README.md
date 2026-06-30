@@ -1,4 +1,4 @@
-# 🧮 Simple Calculator with User History
+# 🧮Calculator with User History
 
 An elegant, command-line Python calculator that implements a smart expression parser with a persistent JSON-based history log.
 
